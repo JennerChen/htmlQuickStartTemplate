@@ -1,0 +1,16 @@
+{
+  "globals": {
+    "$": false,
+    "jQuery": false,
+    "require": false
+  },
+  "noempty": true,
+  "noarg": true,
+  "eqeqeq": true,
+  "browser": true,
+  "bitwise": true,
+  "curly": true,
+  "undef": true,
+  "nonew": true,
+  "forin": true
+}
